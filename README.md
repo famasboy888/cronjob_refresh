@@ -16,7 +16,7 @@ It should have 5 '*' followed by command
 
 ## Other syntax
 
-Cronjob will runn every restart
+Cronjob will run every restart
 ```bash
 @reboot echo "hello world"
 ```
